@@ -1,3 +1,14 @@
+/* Socket client
+ *
+ * Clinet flow 
+ * socket() << create socket to send data
+ * connect () << connects to the server 
+ *
+ * send data
+ *  Created by Priyabrata Das on 07/06/21
+ */
+
+
 #include <errno.h>
 #include <stdio.h>
 #include <stdlib.h>
